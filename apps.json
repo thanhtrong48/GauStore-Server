@@ -1,1 +1,8 @@
-
+[
+  {
+    "name": "SmartTube",
+    "version": "30.91",
+    "icon": "https://raw.githubusercontent.com/thanhtrong48/GauStore-Server/main/icon/smarttube.png",
+    "apk": "https://drive.google.com/uc?export=download&id=FILE_ID"
+  }
+]
